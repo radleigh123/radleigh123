@@ -3,7 +3,7 @@
 ![Newbie programmer](https://user-images.githubusercontent.com/103168649/163583305-ed423694-ff37-4c0f-85b9-922bcf1cfe42.jpg)
 
 
-I am a college freshman studying for ***Bachelor of Information and Communications Technology*** **(ICT)**, recently learning about `GIT`/`GITHUB` because I am planning to collaborate with others as well.
+I am a college freshman studying for ***Bachelor of Science in Computer Engineering*** **(BSCE)**, recently learning about `GIT`/`GITHUB` because I am planning to collaborate with others as well.
 
 **Skills:** `C`/`C++`
 
