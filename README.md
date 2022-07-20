@@ -12,7 +12,7 @@ I am a college freshman studying for ***Bachelor of Information and Communicatio
   - 👯 I’m looking to collaborate on projects soon 
   - 📫 How to reach me: keaneradleigh@gmail.com 
   - 😄 Pronouns: He/Him 
-  - ⚡ Fun fact: Otaku 
+  - ⚡ Fun fact: I'm also a digital artist
   
 </br>
 
