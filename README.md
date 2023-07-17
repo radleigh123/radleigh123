@@ -1,17 +1,17 @@
 ## Hi there 👋, I am Keane Radleigh
-#### Newbie programmer
+#### Advanced beginner programmer
 ![Newbie programmer](https://user-images.githubusercontent.com/103168649/163583305-ed423694-ff37-4c0f-85b9-922bcf1cfe42.jpg)
 
 
 I am a college freshman studying for ***Bachelor of Science in Information Technology*** **(BSIT)**, recently learning about `GIT`/`GITHUB` because I am planning to collaborate with others as well.
 
-**Skills:** `C`/`C++`
+**Skills:** `C`/`C++`/`JavaScript`
 
   - 🔭 I’m currently working on this page. 
-  - 🌱 Currently learning C 
+  - 🌱 Currently learning Java
   - 👯 Looking to collaborate on projects soon 
   - 📫 How to reach me: keaneradleigh@gmail.com 
-  - 😄 Pronouns: He/Him 
+  - 🧑 Pronouns: He/Him 
   - ⚡ Fun fact: I'm also a digital artist
   
 </br>
